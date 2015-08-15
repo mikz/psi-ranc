@@ -1,0 +1,16 @@
+---
+layout: page
+title: Kontakt
+permalink: /kontakt/
+---
+
+
+h1. Chovatelská stanice hovawartů -- Psí&nbsp;ranč
+
+h2. Kontakt
+
+h3. Ivana a Petr Štenclovi
+
+- adresa := Kostelecká 934/34, Praha 9 Čakovice | "Google mapy":http://goo.gl/maps/jwHl | "Mapy.cz":http://goo.gl/N3jiS
+- telefon := _(+420)_ *775 188 830* | *737 235 870* | *226 804 352*
+- email := {{ "<ivana@psi-ranc.cz>" | markdownify }}
