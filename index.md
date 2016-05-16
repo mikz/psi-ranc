@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Úvod
+name: Úvod
 permalink: /
 menu: 1
 ---
@@ -8,7 +8,7 @@ menu: 1
 # Chovatelská stanice hovawartů --- Psí&nbsp;ranč
 Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
-<r:content part="nabidka-stenat"/>
+{% include nabidka-stenat.md %}
 
 ## Majitelům nabízíme
 

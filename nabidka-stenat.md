@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nabídka štenat
+title: Nabídka štěňat
 permalink: /nabidka-stenat/
 menu: 2
 ---
