@@ -1,21 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
+title: Psí ranč
+email: ivana@psi-ranc.cz
+description: >
+ Naše chovatelská stanice je výborně dostupná jak autem, tak MHD.
+ Pro chov psů nabízí kvalitní infrastrukturu ve formě rozlehlého pozemku (cca 3000 m),
+ velkého zastřešeného kotce s dřevěnou podlahou, průběžně monitorované zděné
+ místnosti s vytápěním a hygienickým zázemím pro komfortní odchov štěňat.
+ Velký důraz klademe na správnou socializaci štěňat v rodinném
+ prostředí s dětmi, v přírodě a ve městě.
 
 exclude:
   - Gemfile
   - Gemfile.lock
-
 
 assets:
   cache: true
