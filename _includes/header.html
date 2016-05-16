@@ -7,7 +7,7 @@
       {% for menu_item in pages %}
       {% if menu_item.menu && menu_item.title %}
         <li {% if menu_item.url == page.url %}class="selected"{% endif %}>
-          <a href="{{ menu_item.url | prepend: site.baseurl }}">{{ menu_item.title }}</a>
+          <a href="{{ site.url }}{{ menu_item.url | prepend: site.baseurl }}">{{ menu_item.title }}</a>
         </li>
       {% endif %}
       {% endfor %}
