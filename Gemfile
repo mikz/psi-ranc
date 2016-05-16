@@ -2,6 +2,6 @@ source 'https://rubygems.org'
 
 ruby '2.3.1'
 
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
 
-gem 'jekyll-assets', '~> 1.0'
+# gem 'jekyll-assets', '~> 1.0'

@@ -405,23 +405,23 @@ html, body {
   color: transparent !important; }
 
 #header nav ul li a[href="/"] {
-  background: url('{% asset_path menu/uvod.png %}');
+  background: url('/assets/images/menu/uvod.png');
   width: 57px; }
 
 #header nav ul li a[href^="/nabidka-stenat"] {
-  background: url('{% asset_path menu/nabidka-stenat.png %}');
+  background: url('/assets/images/menu/nabidka-stenat.png');
   width: 156px; }
 
 #header nav ul li a[href^="/nasi-psi"] {
-  background: url('{% asset_path menu/nasi-psi.png %}');
+  background: url('/assets/images/menu/nasi-psi.png');
   width: 84px; }
 
 #header nav ul li a[href^="/o-nas"] {
-  background: url('{% asset_path menu/o-nas.png %}');
+  background: url('/assets/images/menu/o-nas.png');
   width: 60px; }
 
 #header nav ul li a[href^="/kontakt"] {
-  background: url('{% asset_path menu/kontakt.png %}');
+  background: url('/assets/images/menu/kontakt.png');
   width: 83px; }
 
 #container #main .gallery {
@@ -475,16 +475,16 @@ body {
 #container {
   position: relative;
   overflow: visible;
-  background: #f0f0f0 url('{% asset_path body.png %}') top center repeat-y; }
+  background: #f0f0f0 url('/assets/images/body.png') top center repeat-y; }
 
 #container #header {
   position: relative;
-  background: #f0f0f0 url('{% asset_path header.png %}') top center no-repeat; }
+  background: #f0f0f0 url('/assets/images/header.png') top center no-repeat; }
 
 #container #header #menu {
   margin-top: 175px;
   height: 62px;
-  background: #f0f0f0 url('{% asset_path menu.png %}') top center no-repeat; }
+  background: #f0f0f0 url('/assets/images/menu.png') top center no-repeat; }
 
 #container #main .scraper {
   float: right;
@@ -515,7 +515,7 @@ body {
   clear: both; }
 
 #footer {
-  background: #f0f0f0 url('{% asset_path footer.png %}') bottom center no-repeat;
+  background: #f0f0f0 url('/assets/images/footer.png') bottom center no-repeat;
   text-align: center; }
 
 section#main section {
