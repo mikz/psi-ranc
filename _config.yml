@@ -12,6 +12,7 @@ description: >
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 github:
   url: http://localhost:4000
 
