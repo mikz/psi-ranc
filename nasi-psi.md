@@ -2,6 +2,7 @@
 layout: page
 title: Nasi psi
 permalink: /nasi-psi/
+menu: 3
 ---
 
 # Angie z Psího ranče

@@ -2,6 +2,7 @@
 layout: main
 title: Úvod
 permalink: /
+menu: 1
 ---
 
 # Chovatelská stanice hovawartů --- Psí&nbsp;ranč

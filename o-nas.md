@@ -2,6 +2,7 @@
 layout: page
 title: O nás
 permalink: /o-nas/
+menu: 4
 ---
 
 O nás

@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
+menu: 5
 ---
 
 # Chovatelská stanice hovawartů &mdash; Psí&nbsp;ranč

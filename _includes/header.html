@@ -3,15 +3,14 @@
 
   <nav id="menu">
     <ul>
-      {% for page in site.pages %}
-      {% comment %}
-      TODO: javascript highlighting current page
-      {% endcomment %}
-      {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% assign pages = site.pages | sort:"menu"  %}
+      {% for menu_item in pages %}
+      {% if menu_item.menu && menu_item.title %}
+        <li {% if menu_item.url == page.url %}class="selected"{% endif %}>
+          <a href="{{ menu_item.url | prepend: site.baseurl }}">{{ menu_item.title }}</a>
+        </li>
       {% endif %}
       {% endfor %}
     </ul>
   </nav>
-
 </header>
