@@ -404,24 +404,24 @@ html, body {
   height: 100%;
   color: transparent !important; }
 
-#header nav ul li a[href="/"] {
-  background: url('{{ site.baseurl }}/assets/images/menu/uvod.png');
+#header nav ul li a[data-url="/"] {
+  background: url('{{ site.github.url }}/assets/images/menu/uvod.png');
   width: 57px; }
 
-#header nav ul li a[href^="/nabidka-stenat"] {
-  background: url('{{ site.baseurl }}/assets/images/menu/nabidka-stenat.png');
+#header nav ul li a[data-url^="/nabidka-stenat"] {
+  background: url('{{ site.github.url }}/assets/images/menu/nabidka-stenat.png');
   width: 156px; }
 
-#header nav ul li a[href^="/nasi-psi"] {
-  background: url('{{ site.baseurl }}/assets/images/menu/nasi-psi.png');
+#header nav ul li a[data-url^="/nasi-psi"] {
+  background: url('{{ site.github.url }}/assets/images/menu/nasi-psi.png');
   width: 84px; }
 
-#header nav ul li a[href^="/o-nas"] {
-  background: url('{{ site.baseurl }}/assets/images/menu/o-nas.png');
+#header nav ul li a[data-url^="/o-nas"] {
+  background: url('{{ site.github.url }}/assets/images/menu/o-nas.png');
   width: 60px; }
 
-#header nav ul li a[href^="/kontakt"] {
-  background: url('{{ site.baseurl }}/assets/images/menu/kontakt.png');
+#header nav ul li a[data-url^="/kontakt"] {
+  background: url('{{ site.github.url }}/assets/images/menu/kontakt.png');
   width: 83px; }
 
 #container #main .gallery {
@@ -475,16 +475,16 @@ body {
 #container {
   position: relative;
   overflow: visible;
-  background: #f0f0f0 url('{{ site.baseurl }}/assets/images/body.png') top center repeat-y; }
+  background: #f0f0f0 url('{{ site.github.url }}/assets/images/body.png') top center repeat-y; }
 
 #container #header {
   position: relative;
-  background: #f0f0f0 url('{{ site.baseurl }}/assets/images/header.png') top center no-repeat; }
+  background: #f0f0f0 url('{{ site.github.url }}/assets/images/header.png') top center no-repeat; }
 
 #container #header #menu {
   margin-top: 175px;
   height: 62px;
-  background: #f0f0f0 url('{{ site.baseurl }}/assets/images/menu.png') top center no-repeat; }
+  background: #f0f0f0 url('{{ site.github.url }}/assets/images/menu.png') top center no-repeat; }
 
 #container #main .scraper {
   float: right;
@@ -515,7 +515,7 @@ body {
   clear: both; }
 
 #footer {
-  background: #f0f0f0 url('{{ site.baseurl }}/assets/images/footer.png') bottom center no-repeat;
+  background: #f0f0f0 url('{{ site.github.url }}/assets/images/footer.png') bottom center no-repeat;
   text-align: center; }
 
 section#main section {
