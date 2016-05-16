@@ -15,5 +15,7 @@ exclude:
 github:
   url: http://localhost:4000
 
+baseurl: /psi-ranc
+
 assets:
   cache: true

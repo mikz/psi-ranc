@@ -9,10 +9,10 @@
     <meta name="description" content="{{ site.description }}">
 
     {% for css in page.css %}
-    <link rel="stylesheet" href='{{ css | append: ".css" | prepend: "/css/" | prepend: site.github.url }}'>
+    <link rel="stylesheet" href='{{ css | append: ".css" | prepend: "/css/" | prepend: site.baseurl }}'>
     {% endfor %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
 
     <meta name="google-site-verification" content="2py26krkLENOsNDN0dIEdCKPIobOK8EGSPt-zAQRNzg" />
     <meta name="google-site-verification" content="3gn1Fu1-3fbUK62TZpOUA0nfVTtVF5kV7oDV9ebzpOE" />
