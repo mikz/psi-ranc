@@ -446,7 +446,11 @@ html, body {
   text-decoration: none; }
 
 #container #main .gallery .item a img {
-  display: block; }
+  display: block;
+  object-fit: cover;
+  height: 115px;
+  width: 115px;
+}
 
 section.news article {
   margin-bottom: 1.5em; }
