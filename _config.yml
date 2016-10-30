@@ -9,10 +9,13 @@ description: >
  Velký důraz klademe na správnou socializaci štěňat v rodinném
  prostředí s dětmi, v přírodě a ve městě.
 
+upsta: https://upsta.herokuapp.com
+# upsta: http://localhost:3000
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - Procfile
 repository: mikz/psi-ranc
 
 baseurl: /psi-ranc
