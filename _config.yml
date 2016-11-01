@@ -9,7 +9,7 @@ description: >
  Velký důraz klademe na správnou socializaci štěňat v rodinném
  prostředí s dětmi, v přírodě a ve městě.
 
-upsta: https://upsta.herokuapp.com
+upsta: https://upsta.photo
 # upsta: http://localhost:3000
 exclude:
   - Gemfile
