@@ -18,7 +18,7 @@ exclude:
   - Procfile
 repository: mikz/psi-ranc
 
-baseurl: /psi-ranc
+baseurl:
 
 assets:
   cache: true
