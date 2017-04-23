@@ -8,6 +8,8 @@ menu: 1
 # Chovatelská stanice hovawartů --- Psí&nbsp;ranč
 Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
+## [Nabídka štěňat](/nabidka-stenat)
+
 {% include nabidka-stenat.md %}
 
 ## Majitelům nabízíme

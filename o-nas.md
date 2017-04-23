@@ -8,8 +8,15 @@ menu: 4
 O nás
 =====
 
-Naše chovatelská stanice je výborně dostupná jak autem, tak MHD. Pro chov psů nabízí kvalitní infrastrukturu ve formě rozlehlého pozemku (cca 3000 m), velkého zastřešeného kotce s dřevěnou podlahou, průběžně monitorované zděné místnosti s vytápěním a hygienickým zázemím pro komfortní odchov štěňat. Velký důraz klademe na správnou socializaci štěňat v rodinném prostředí s dětmi, v přírodě a ve městě.
+Chovu hovawartů se věnujeme přes 10 let, zkušenosti se štěňátky získáváme a obohacujeme už šest let. 
+Naše chovatelská stanice nabízí pro chov psů rozsáhlý pozemek (cca 3000 m2), velký důraz klademe na správnou socializaci štěňat v rodinném prostředí s dětmi, v přírodě a ve městě.
 
+* [Vrh A](/vrh-a) (matka: [Beyla](/nasi-psi#Beyla), otec: [Aslan](https://www.hovawart.cz/databaze/psi/info.php?id=4106)) -- Aida, Alby, Amy, [Angie](/nasi-psi#Angie), April, Andy 
+* [Vrh B](/vrh-b) (matka: [Angie](/nasi-psi#Angie), otec: [Falcon](https://www.hovawart.cz/databaze/psi/info.php?id=6435)) - Baira, Benni, Brittany, Bad, Bard, Buddy
+
+Úspěchy našich štěňat:
+ 
+* [April](https://www.hovawart.cz/databaze/psi/info.php?id=6889)
 
 ## Proč psa s průkazem původu (PP)?
 
