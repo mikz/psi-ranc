@@ -5,8 +5,11 @@ permalink: /nabidka-stenat/
 menu: 2
 ---
 
-Všechna štěňátka - Baira, Benni, Brittany, Bad, Bard i Buddy - už mají své majitele.
+# Vrh C
 
-## Fotogalerie
+{% include nabidka-stenat.md %}
 
-{% include upsta.html project="vrh-b" %}
+# Předchozí vrhy
+
+* [Vrh B](/vrh-b)
+* [Vrh A](/vrh-a)

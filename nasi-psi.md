@@ -5,17 +5,19 @@ permalink: /nasi-psi/
 menu: 3
 ---
 
+{:name="Angie"}
 # Angie z Psího ranče
 
-Angie, černá fena, narozena 1.&nbsp;4.&nbsp;2011, <r:assets:link title="Průkaz původu psa" />.
+Angie, černá fena, narozena 1.&nbsp;4.&nbsp;2011.
 
 Více informací získáte v&nbsp;[databázi hovawart.cz](http://www.hovawart.cz/databaze/psi/info.php?id=6888)
 
 {% include upsta.html project="angie" %}
 
-# Beyla Pektorův statek
+{:name="Beyla"}
+# Beyla Pektorův statek 
 
-Beyla, fena, černá se znaky, narozena 10.&nbsp;8.&nbsp;2007. Můžete si prohlédnout její <r:assets:link title="průkaz původu" />.
+Beyla, fena, černá se znaky, narozena 10.&nbsp;8.&nbsp;2007.
 
 Více informací získáte v&nbsp;[databázi hovawart.cz](http://www.hovawart.cz/databaze/psi/info.php?id=4035)
 
