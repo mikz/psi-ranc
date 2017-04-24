@@ -1,0 +1,20 @@
+{
+  "name": "psi-ranc",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "papertrail",
+    "newrelic",
+    "heroku-postgresql",
+    "rediscloud"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
