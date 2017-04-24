@@ -17,6 +17,7 @@ Naše chovatelská stanice nabízí pro chov psů rozsáhlý pozemek (cca 3000 m
 Úspěchy našich štěňat:
  
 * [April](https://www.hovawart.cz/databaze/psi/info.php?id=6889)
+* [Angie](/nasi-psi#Angie)
 
 ## Proč psa s průkazem původu (PP)?
 
