@@ -16,6 +16,8 @@ exclude:
   - Gemfile.lock
   - vendor
   - Procfile
+  - node_modules
+  - system
 repository: mikz/psi-ranc
 
 baseurl:
