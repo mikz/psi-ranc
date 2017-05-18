@@ -12,6 +12,8 @@ Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
 {% include nabidka-stenat.md %}
 
+{% include upsta.html project="vrh-c" limit=5 %}
+
 ## Majitelům nabízíme
 
 Máte-li dotazy či problémy s chovem, výchovou nebo výcvikem hovawarta, můžete se na nás obrátit, ochotně Vám poradíme, nebo odbornou pomoc zprostředkujeme.
