@@ -9,6 +9,8 @@ menu: 2
 
 {% include nabidka-stenat.md %}
 
+{% include upsta.html project="vrh-c" %}
+
 # Předchozí vrhy
 
 * [Vrh B](/vrh-b)
