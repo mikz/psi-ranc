@@ -12,7 +12,7 @@ Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
 {% include nabidka-stenat.md %}
 
-{% include upsta.html project="vrh-c" limit=5 %}
+{% include upsta.html project="vrh-c-uvod" %}
 
 ## Majitelům nabízíme
 
