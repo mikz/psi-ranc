@@ -10,7 +10,7 @@ Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
 ## [Nabídka štěňat](/nabidka-stenat)
 
-V noci ze 14. na 15. května  Angie přivedla na svět štěňátka. K odběru jsou štěňátka začátkem července (přibližně 4.7.).  Jména vybírejte od písmene "C".  
+V noci ze 14. na 15. května  Angie přivedla na svět štěňátka. K odběru budou začátkem července (přibližně 4.7.).  Jména vybírejte od písmene "C".  
 
 {% include nabidka-stenat.md %}
 
