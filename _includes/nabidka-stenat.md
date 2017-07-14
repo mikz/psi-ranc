@@ -1,5 +1,5 @@
-V současné době máme **poslední volné štěňátko** - černoznakatou fenečku.
-Odběr možný od 12. 7.
+V současné době máme **poslední volné štěňátko** - černoznakatou fenečku klidné a přítulné povahy.
+Odběr možný ihned.
 
 {% include upsta.html project="cora" %}
 
