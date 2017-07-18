@@ -1,9 +1,3 @@
-V současné době máme **poslední volné štěňátko** - černoznakatou fenečku klidné a přítulné povahy.
-Odběr možný ihned.
-
-{% include upsta.html project="cora" %}
+Cassidy, Cassiope, Cindy, Cora, Coryna, Caston a Cliff už mají své majitele. V současné době již nemáme žádné volné štěňátko.
 
 Matkou je [Angie z Psího ranče](/nasi-psi#Angie), otcem [Argo Lady Marion](https://www.hovawart.cz/databaze/psi/info.php?id=7577).
-V případě zájmu nás můžete [kontaktovat](/kontakt) a štěňátko si rezervovat.
-
-Cassidy, Cassiope, Cindy, Caston, Coryna a Cliff už mají své majitele.
