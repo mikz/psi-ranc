@@ -10,7 +10,7 @@ Naše chovatelská stanice se věnuje **chovu hovawartů**.
 
 ## [Nabídka štěňat](/nabidka-stenat)
 
-V noci ze 14. na 15. května [Angie](http://localhost:5000/nasi-psi#Angie) přivedla na svět štěňátka.
+V noci ze 14. na 15. května [Angie](/nasi-psi#Angie) přivedla na svět štěňátka.
 
 {% include nabidka-stenat.md %}
 
